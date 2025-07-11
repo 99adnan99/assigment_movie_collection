@@ -1,16 +1,19 @@
-# flutter_movie
+# 📱 myDebt
 
-A new Flutter project.
+**myDebt** is a mobile application that helps users keep track of personal debts in a simple, organized, and secure way. The app supports full **CRUD (Create, Read, Update, Delete)** functionality and stores data using **Firebase Realtime Database**.
 
-## Getting Started
+## 🧾 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add new debt entries with names, amounts, and notes
+- ✅ View and search all debt records
+- ✅ Update or mark debts as paid
+- ✅ Delete entries if needed
+- ✅ Cloud storage with **Firebase**
+- ✅ Clean and intuitive mobile interface
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** (or your mobile framework — update if you're using React Native or others)
+- **Firebase Realtime Database**
+- **Firebase Authentication** (optional if login is used)
+- **Dart** (for Flutter apps)
